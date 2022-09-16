@@ -10,6 +10,8 @@ This makes heart disease a major concern to be dealt with. But it is difficult t
 
 **Machine learning (ML) proves to be effective in assisting in making decisions and predictions from the large quantity of data produced by the healthcare industry.**
 
+_Datasets Reference: https://archive.ics.uci.edu/ml/datasets/heart+disease_
+
 <hr>
 
 ### ENVIRONMENT INSTALLATION 👇
